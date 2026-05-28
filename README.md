@@ -46,3 +46,14 @@ RAG_Chatbot/
 ├── vectorstore/
 ├── myenv/
 └── __pycache__/
+
+## How It Works ?
+1. User uploads PDF document
+2. PDF text gets extracted
+3. Text is split into chunks
+4. Embeddings are generated
+5. Embeddings stored in vector database
+6. User asks question
+7. Relevant chunks retrieved
+8. LLM generates final answer
+
