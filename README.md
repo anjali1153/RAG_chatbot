@@ -69,3 +69,7 @@ User Query → Similarity Search → Context Retrieval → LLM Response
 - Multi-language support
 - Cloud deployment
 - Authentication system
+
+# Author
+- Anjali Wable
+- GitHub: https://github.com/anjali1153
