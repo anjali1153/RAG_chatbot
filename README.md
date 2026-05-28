@@ -24,10 +24,10 @@
 8. Local project execution
 
 ## Tech Stack :
-Technology       --->     	Purpose
-Python	                 Backend Development
-Gradio	                  User Interface
-LangChain	                RAG Pipeline
-FAISS / ChromaDB	        Vector Database
-Hugging Face	             Embeddings
-Ollama              	  LLM Integration
+   Technology       --->     	Purpose
+1. Python	                 Backend Development
+2. Gradio	                  User Interface
+3. LangChain	                RAG Pipeline
+4. FAISS         	        Vector Database
+5. Hugging Face	             Embeddings
+6. Ollama              	  LLM Integration
