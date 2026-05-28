@@ -31,3 +31,18 @@
 4. FAISS         	  --->   Vector Database
 5. Hugging Face	  --->     Embeddings
 6. Ollama           --->    LLM Integration
+
+## Project Structure :
+RAG_Chatbot/
+│
+├── app.py
+├── ingest.py
+├── rag_chain.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+│
+├── data/
+├── vectorstore/
+├── myenv/
+└── __pycache__/
