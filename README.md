@@ -25,9 +25,9 @@
 
 ## Tech Stack :
    Technology       --->     	Purpose
-1. Python	                 Backend Development
-2. Gradio	                  User Interface
-3. LangChain	                RAG Pipeline
-4. FAISS         	        Vector Database
-5. Hugging Face	             Embeddings
-6. Ollama              	  LLM Integration
+1. Python	        --->   Backend Development
+2. Gradio	        --->     User Interface
+3. LangChain	     --->      RAG Pipeline
+4. FAISS         	  --->   Vector Database
+5. Hugging Face	  --->     Embeddings
+6. Ollama           --->    LLM Integration
