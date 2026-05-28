@@ -23,3 +23,11 @@
 7. Interactive Gradio UI
 8. Local project execution
 
+## Tech Stack :
+Technology       --->     	Purpose
+Python	                 Backend Development
+Gradio	                  User Interface
+LangChain	                RAG Pipeline
+FAISS / ChromaDB	        Vector Database
+Hugging Face	             Embeddings
+Ollama              	  LLM Integration
