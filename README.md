@@ -57,3 +57,7 @@ RAG_Chatbot/
 7. Relevant chunks retrieved
 8. LLM generates final answer
 
+## RAG Architecture
+PDF → Text Extraction → Chunking → Embeddings → Vector Store
+                                                ↓
+User Query → Similarity Search → Context Retrieval → LLM Response
