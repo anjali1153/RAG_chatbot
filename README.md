@@ -61,3 +61,11 @@ RAG_Chatbot/
 PDF → Text Extraction → Chunking → Embeddings → Vector Store
                                                 ↓
 User Query → Similarity Search → Context Retrieval → LLM Response
+
+## Future Improvements
+- Multiple PDF support
+- Chat history memory
+- Voice input
+- Multi-language support
+- Cloud deployment
+- Authentication system
